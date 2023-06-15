@@ -1,0 +1,17 @@
+Separation of content and presentation: CSS allows you to separate the structure and content of a web page from its visual appearance. This separation makes it easier to modify and manage the website because the structure can be changed in the CSS file without changing the HTML code.
+
+Consistency and Reusability: CSS allows you to define styles once and use them consistently on your website. By using classes and IDs, you can use the same model for many elements, reducing complexity and maintaining consistency in your design.
+
+Ease of Editing: Using CSS, you can make general changes to the design of your website by editing a single CSS file. This saves time and effort compared to manually updating each web page individually.
+
+Responsive Design: CSS provides features such as media queries that allow you to create responses that adapt to different sizes and devices. This change is crucial in today's mobile-first world.
+
+Improved Page Performance: By separating the style rules into external CSS files, this file can be cached, which reduces the size of the expanded page and increases the speed of your space.
+
+Accessibility: CSS supports accessibility, which improves web usability and inclusion. It allows you to improve the structure and presentation for users with disabilities such as visually impaired readers.
+
+
+
+
+
+I would like to design the "Future of Car Sharing"
